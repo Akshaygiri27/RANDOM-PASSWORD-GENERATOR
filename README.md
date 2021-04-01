@@ -1,0 +1,2 @@
+# RANDOM-PASSWORD-GENERATOR
+Developed by a python programming language, this project is related to random password generator, this project basically lessens the effort of searching for various other passwords of various other lengths, including all the special charecters and other alphanumeric keys and other things, this project gives an exceptionally good outcome of generating a Random Password. The GUI window is developed using a python module called Tkinter, which has made this GUI window look more attractive and function more easily
